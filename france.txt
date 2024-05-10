@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+      America
+    </title>
+  </head>
+  <body bgcolor=lightblue>
+    <h1 align=center>America
+    </h1>
+    <p align=center><img src=flag.png></p>
+    <p align=center><img src=france_physical_map.gif></p>
+    <h2>Culture</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mu7T6y-tvMs?si=pI-E_xx4QhnCs5MZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+    <h2>Food</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/r-gv0sry-_Y?si=yzizsoqa_i-isS7_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+    <h2>Landmarks</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BZLZyX3JdEM?si=VyM_pQuB-suZIxQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+</body>
+</html>
